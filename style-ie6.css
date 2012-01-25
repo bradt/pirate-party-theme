@@ -1,0 +1,18 @@
+#nav, #content, #content.home .blog li, #content.home .tweets li {
+	height: 100%;
+	position: relative;
+}
+
+#header h1 a {
+	background: url(img/logo.gif);
+}
+
+#footer h1 a {
+	background: url(img/logo-footer.gif);
+}
+
+#sidebar .widget_categories li,
+#sidebar .widget_archive li,
+#sidebar .widget-pages li {
+	height: 0;
+}
